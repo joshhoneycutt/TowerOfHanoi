@@ -1,7 +1,5 @@
 /* 
 *  Author Name: Joshua Honeycuttt
-*  Instructor: Danny Jugan
-*  Class: ITCS 2215 - 002
 *  Program: Tower of Hanoi, Program Assignment #1
 */ 
 import java.util.*; 
